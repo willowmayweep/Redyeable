@@ -2,7 +2,7 @@
 
 Redyeable is a Fabric mod for Minecraft that makes dyeing blocks like glass and terracotta easier. Blocks can be dyed infinitely and individually, like wool, instead of only once and in groups of eight.
 
-***Supported Versions:** 1.21.7, 1.21.8*
+***Supported Versions:** 1.21.7, 1.21.8, 1.21.9*
 ***
 ## Supported Blocks
 - Banners
