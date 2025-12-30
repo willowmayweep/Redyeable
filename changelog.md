@@ -1,4 +1,4 @@
 # Changelog
-***v1.1.1***
+***v1.1.2***
 ***
-- Updated to Minecraft 1.21.9
+- Updated to Minecraft 1.21.10
