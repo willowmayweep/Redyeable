@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "redyeable",
-	"version": "1.1.2",
+	"version": "1.2.0",
 	"name": "Redyeable",
 	"description": "Makes dyeing blocks like glass and terracotta easier.",
 	"authors": [
@@ -22,7 +22,7 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.18.4",
-		"minecraft": "~1.21.10",
+		"minecraft": "~1.21.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	}
